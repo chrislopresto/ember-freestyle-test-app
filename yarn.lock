@@ -2466,9 +2466,9 @@ ember-factory-for-polyfill@^1.1.0:
     ember-cli-babel "^5.1.7"
     ember-cli-version-checker "^1.2.0"
 
-ember-freestyle@^0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/ember-freestyle/-/ember-freestyle-0.6.0.tgz#829747a5f8dde445636405deebcebe6d151271e1"
+ember-freestyle@^0.6.1:
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/ember-freestyle/-/ember-freestyle-0.6.1.tgz#40956ac993676aab5d68d702710db54ee6374a5f"
   dependencies:
     broccoli-flatiron "0.0.0"
     broccoli-merge-trees "^2.0.0"
